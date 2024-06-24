@@ -4,5 +4,11 @@
     box-sizing: border-box;
 }
 body {
-    background-color: blue;
+    background-color: rgb(182, 119, 119);
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+    color: rgb(34, 24, 12);
+    font-size: 46px;
 }
