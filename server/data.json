@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Thriller",
+        "artist": "Michael Jackson",
+        "year": "1982"
+    },
+    {
+        "name": "Bad",
+        "artist": "Michael Jackson",
+        "year": "1987"
+    },
+    {
+        "name": "Ora",
+        "artist": "Gigi D'alessio",
+        "year": "2013"
+    },
+    {
+        "name": "Dangerous",
+        "artist": "Michael Jackson",
+        "year": "1991"
+    },
+    {
+        "name": "Off the Wall",
+        "artist": "Michael Jackson",
+        "year": "1979"
+    },
+    {
+        "name": "Invincible",
+        "artist": "Michael Jackson",
+        "year": "2001"
+    }
+]
